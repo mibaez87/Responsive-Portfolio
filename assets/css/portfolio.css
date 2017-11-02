@@ -138,3 +138,17 @@ footer {
 #footerText {
     text-align: center;
 }
+
+@media screen and (max-width: 980px) {
+    #SideBar {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+}
+  
+@media screen and (max-width: 640px) {
+    
+}
